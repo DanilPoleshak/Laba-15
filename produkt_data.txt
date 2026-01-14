@@ -1,0 +1,13 @@
+Наименование,Количество,Цена
+"Notebook HP Pavilion",15,55000
+"Telephone Samsung A54",42,30000
+"Naushniki Sony WH-1000XM5",28,3500
+"Klaviatura Logitech",42,4600
+"Mishka besprovodnaia"120,1900
+"Monitor 27 4K",12,4300
+"Vneshnii jestkii disk 2TB",35,7600
+"Router Wi-Fi",50,9000
+"Power Bank 20000 mAh",85,2500
+"USB-C kabel",200,900
+"Shapka",10,700
+"Kurtka", 15, 1500
